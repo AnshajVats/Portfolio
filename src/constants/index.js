@@ -17,6 +17,7 @@ import {
   figma,
   docker,
   amazon,
+  Meta,
   gmg,
   usf,
   bank,
@@ -121,6 +122,32 @@ const technologies = [
 ];
 
 const experiences = [
+    {
+    title: "SDE Full time",
+    company_name: "Meta",
+    icon: Meta,
+    iconBg: "#383E56",
+    date: "Jan 2026 - Present",
+    points: [
+      "Facebook team: I work with the Insights team on the Creator experience. I brought the Daily Active users for Insights up by 50K and Weekly Active users up by 90K as a result of my project.",
+      "Production Gain: Drove a 0.023 increase in the Full Ecosystem Score (FES)—equivalent to 50K more pieces of content. I built the content Retention graph for the Facebook app.",
+      "Story gains: Boosted daily Facebook Story production by 500K by launching the ”Share Reel to Story” feature on Facebook for Android.",
+    ],
+
+  },
+  {
+    title: "SDE Intern",
+    company_name: "Meta",
+    icon: Meta,
+    iconBg: "#383E56",
+    date: "June 2025 - Aug 2025",
+    points: [
+      "Auto Dubbing and BYOA: Delivered a fully functional Auto Dubbing and Bring Your Own Audio feature in Facebook Reels, meeting 100% of project objectives and exceeding scope within 8 weeks.",
+      "Code Quality: Wrote and reviewed over 7,243 lines of code across 74+ diffs with detailed test plans, visual proof, and adherence to Meta’s code quality standards.",
+      "Custom Audio Integration: Developed BYOA functionality, enabling users to upload and integrate custom audio tracks into videos using Python and Hack.",
+    ],
+
+  },
   {
     title: "SDE Intern",
     company_name: "Amazon",

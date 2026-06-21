@@ -38,8 +38,10 @@ import wei from "./Wei.jpeg";
 import OpenAI from "./openAI.png";
 import tank from "./tankGame.png";
 import YouTube from "./YouTubeClone.png";
+import Meta from "./company/meta.png";
 
 export {
+  Meta,
   logo,
   backend,
   creator,
