@@ -1,11 +1,9 @@
-import { a } from "@react-spring/three";
 import {
   mobile,
   backend,
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
